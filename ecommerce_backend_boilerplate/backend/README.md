@@ -1,0 +1,1 @@
+Backend Boilerplate\n-------------------\n1. Copy .env.example to .env and fill values.\n2. npm install\n3. npm run dev (or npm start)
